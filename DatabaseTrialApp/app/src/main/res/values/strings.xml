@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Database Trial App</string>
+    <string name="email">Email id</string>
+    <string name="password">Password</string>
+    <string name="view_data">View data</string>
+    <string name="add_user">Add user</string>
+    <string name="update">Update</string>
+    <string name="username">Email id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="delete">Delete</string>
+    <string name="current_id">Current id</string>
+    <string name="new_id">New id</string>
+    <string name="enter_id_to_delete_data">Enter id to Delete Data</string>
+    <string name="invalid_email_address">invalid email address</string>
+    <string name="password_length">password length should be greater than 5 characters</string>
+</resources>
